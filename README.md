@@ -1,5 +1,5 @@
 # LogWise
-Small Website to send logs.
+Small Website to send logs from remote apps.
 
 ```php
 // Example

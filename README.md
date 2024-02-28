@@ -4,6 +4,11 @@ Small Website to send logs.
 ```php
 // Example
 
+const API_URL = "https://logwise.fly.dev/api/logs";
+const API_KEY = "th1s1s4h4rdp4ssw0rd";
+const TOKEN = "MyApp";
+const SENDER = "hello.myapp.com";
+
 $headers = array(
     'Content-Type: application/json',
     'api-key: '.self::API_KEY
